@@ -1,0 +1,135 @@
+{
+ "providers": [
+   {
+     "identifier": 1,
+     "gender": "F",
+     "name": "SELMA BOUVIER",
+     "specialty": "PODIATRY",
+     "address": {
+       "street": "251 E HURON ST",
+       "city": "CHICAGO",
+       "state": "IL",
+       "postal_code": "60611",
+       "telephone_number": "111-111-1111"
+     }
+   },
+   {
+     "identifier": 2,
+     "gender": "M",
+     "name": "CHARLES BURNS",
+     "specialty": "CARDIOLOGY",
+     "address": {
+       "street": "1620 W HARRISON ST",
+       "city": "CHICAGO",
+       "state": "IL",
+       "postal_code": "60611",
+       "telephone_number": "222-222-2222"
+     }
+   },
+   {
+     "identifier": 3,
+     "gender": "F",
+     "name": "EDNA KRABAPPEL",
+     "specialty": "PODIATRY",
+     "address": {
+       "street": "251 E HURON ST",
+       "city": "CHICAGO",
+       "state": "IL",
+       "postal_code": "60611",
+       "telephone_number": "333-333-3333"
+     }
+   },
+   {
+     "identifier": 4,
+     "gender": "M",
+     "name": "JIMBO JONES",
+     "specialty": "PHYSICAL THERAPIST",
+     "address": {
+       "street": "335 E EERIE ST",
+       "city": "CHICAGO",
+       "state": "IL",
+       "postal_code": "60611",
+       "telephone_number": "444-444-4444"
+     }
+   },
+   {
+     "identifier": 5,
+     "gender": "F",
+     "name": "MAUDE FLANDERS",
+     "specialty": "PHARMACIST",
+     "address": {
+       "street": "1299 E OGDEN AVE",
+       "city": "NAPERVILLE",
+       "state": "IL",
+       "postal_code": "60565",
+       "telephone_number": "555-555-5555"
+     }
+   },
+   {
+     "identifier": 6,
+     "gender": "F",
+     "name": "HELEN LOVEJOY",
+     "specialty": "PHARMACIST",
+     "address": {
+       "street": "1299 E OGDEN AVE",
+       "city": "NAPERVILLE",
+       "state": "IL",
+       "postal_code": "60563",
+       "telephone_number": "666-666-6666"
+     }
+   },
+   {
+     "identifier": 7,
+     "gender": "M",
+     "name": "SIDESHOW BOB",
+     "specialty": "PHARMACIST",
+     "address": {
+       "street": "1299 E OGDEN AVE",
+       "city": "NAPERVILLE",
+       "state": "IL",
+       "postal_code": "60563",
+       "telephone_number": "777-777-7777"
+     }
+   },
+   {
+     "identifier": 8,
+     "gender": "M",
+     "name": "MILLHOUSE VAN HOUTEN",
+     "specialty": "GASTROENTEROLOGIST",
+     "address": {
+       "street": "1500 E MEDICAL CENTER D",
+       "city": "ANN ARBOR",
+       "state": "MI",
+       "postal_code": "48109",
+       "telephone_number": "888-888-8888"
+     }
+   },
+   {
+     "identifier": 9,
+     "gender": "F",
+     "name": "MISS HOOVER",
+     "specialty": "PHARMACIST",
+     "address": {
+       "street": "1299 E OGDEN AVE",
+       "city": "NAPERVILLE",
+       "state": "IL",
+       "postal_code": "60563",
+       "telephone_number": "999-999-9999"
+     }
+   },
+   {
+     "identifier": 10,
+     "gender": "F",
+     "name": "PATTY BOUVIER",
+     "specialty": "CARDIOLOGY",
+     "address": {
+       "street": "302 E UNIVERSITY AVE",
+       "city": "URBANA",
+       "state": "IL",
+       "postal_code": "61802",
+       "telephone_number": "000-000-0000"
+     }
+   }
+ ]
+}
+
